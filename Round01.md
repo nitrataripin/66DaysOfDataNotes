@@ -25,7 +25,7 @@
 
 ## Day 5
 **Thu, 13 Jan 2022**<br>
-> [DONE] [dqlab](dqlab.id):
+> [DONE] [dqlab](https://dqlab.id/):
 > Chp. 1 of Python for Data Professional Beginner Part 2: Collection Manipulation
 <br>
 
@@ -39,7 +39,7 @@
 
 ## Day 7
 **Sat, 15 Jan 2022**<br>
-> [DONE] [dqlab](dqlab.id):
+> [DONE] [dqlab](https://dqlab.id/):
 > * Chp. 2 of Python for Data Professional Beginner Part 2: String Manipulation (6 submodules)
 > * two excel quizzes
 <br>
