@@ -37,9 +37,46 @@
 > * **google colab** --> easy to use & to access + low cost ~~ for performing data science
 <br>
 
-## Day 7
-**Sat, 15 Jan 2022**<br>
-> [DONE] [dqlab](https://dqlab.id/):
+## Day 7-8
+> [DONE] [dqlab](https://dqlab.id/)
+
+**Sat, 15 Jan 2022:**<br>
 > * Chp. 2 of Python for Data Professional Beginner Part 2: String Manipulation (6 submodules)
 > * two excel quizzes
+
+**Sun, 16 Jan 2022:**<br>
+> * Chp. 3-5 of Python for Data Professional Beginner Part 2 (FINISHED)
+<br>
+
+## Day 9
+**Mon, 17 Jan 2022**<br>
+> Wathced: A short [video about Web 3](https://youtu.be/0jTtHYie3CU) from Ken Jee.<br>
+> *Web 3 will make more more data are accessible publicly? Most NFTs aren't actually stored on the blockchain?*
+<br>
+
+## Day 10
+**Tue, 18 Jan 2022**<br>
+> [DONE] [dqlab](https://dqlab.id/):
+> Python for Data Professional Beginner Part 3
+> * It was about Object-oriented programming (OOP): Class & its attributes
+<br>
+
+## Day 11
+**Thu, 20 Jan 2022**<br>
+> *skipped one day*
+> * A [podcast video](https://youtu.be/FtGCAGJkPBk) from Ken Jee (again).<br>
+> *It's supposed to be something related to data. However, a motivation for staying motivated is a must.*
+<br>
+
+## Day 12-14
+> [dqlab](https://dqlab.id/)
+
+**Fri, 21 Jan 2022:**<br>
+> * Python for Data Professional Beginner Part 3 **\[DONE\]**
+
+**Sat, 22 Jan 2022:**<br>
+> * Exploratory Data Analysis with Python for Beginner **\[DONE\]**
+
+**Sun, 23 Jan 2022:**<br>
+> * Data Visualization with Python Matplotlib for Beginner - Part 1 **\[~65%\]**
 <br>
