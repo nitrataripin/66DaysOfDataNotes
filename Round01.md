@@ -80,3 +80,31 @@
 **Sun, 23 Jan 2022:**<br>
 > * Data Visualization with Python Matplotlib for Beginner - Part 1 **\[~65%\]**
 <br>
+
+## Day 15-20
+> [dqlab](https://dqlab.id/)
+
+**Mon, 24 Jan 2022:**<br>
+> * Data Visualization with Python Matplotlib for Beginner - Part 1 **\[DONE\]**
+
+**Tue, 25 Jan 2022:**<br>
+> * Data Visualization with Python Matplotlib for Beginner - Part 2 **\[total: 3/5 chapters\]**
+
+**Wed, 26 Jan 2022:**<br>
+> * Data Visualization with Python Matplotlib for Beginner - Part 2 **\[total: 4/5 chapters\]**
+
+**Thu, 27 Jan 2022:**<br>
+> * Data Visualization with Python Matplotlib for Beginner - Part 2 **\[DONE\]**
+> * Data Quality with Python for Beginner **\[21%\]**
+
+**Fri, 28 Jan 2022:**<br>
+> * Data Quality with Python for Beginner **\[DONE\]**
+
+**Sat, 29 Jan 2022:**<br>
+> * Machine Learning with Python **\[33%\]**
+<br>
+
+## Day 21
+**Sun, 30 Jan 2022**<br>
+> watched a [youtube video from Ken Jee](https://youtu.be/KEeUR8UDy-s) about the implementation of machine learning in horse racing betting. It's still amazed me how Bill Benter create models to increase his winning probability in betting on horses.
+<br>
