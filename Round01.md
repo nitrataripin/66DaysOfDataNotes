@@ -207,8 +207,9 @@
 
 ## Day 39
 **Thu, 24 Feb 2022**<br>
-> **\[DONE 100%\]** Chapter 2 - Dataset I/O; [Data Manipulation with Pandas - Part 1](https://academy.dqlab.id/main/package/practice/178?pf=0) module:<br>
+> * **\[DONE 100%\]** Chapter 2 - Dataset I/O; [Data Manipulation with Pandas - Part 1](https://academy.dqlab.id/main/package/practice/178?pf=0) module:<br>
 > How to read & to save dataset from & to different file types using Pandas.
+> * Additional: A recommendation article on Medium led me to this github page: [datasciencemasters](https://github.com/datasciencemasters/go). Good syllabus for self-studying DS.
 <br>
 
 ## Day 40
