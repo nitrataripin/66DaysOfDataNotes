@@ -159,7 +159,7 @@
 
 ## Day 31
 **Tue, 15 Feb 2022**<br>
-> Made notes on course: [Desain & Analisis Sistem](https://teachingfactory.net/program/teknologi-informasi/desain-dan-analisis-sistem/) ([Here](https://nitrataripin.medium.com/catatan-kuliah-desain-analisis-sistem-bagian-1-18ca7d3a67f5) is my notes -- in Bahasa Indonesia). <br>
+> Made notes on course: [Desain & Analisis Sistem](https://teachingfactory.net/program/teknologi-informasi/desain-dan-analisis-sistem/). <br>
 > I think it'll be an initial step to learn blockchain & NFTs. Then, suddenly a question came up: "*what is the relationship between data science and blockchain?*"<br>
 > An [article written by Salih SARIKAYA](https://towardsdatascience.com/how-blockchain-will-disrupt-data-science-5-blockchain-use-cases-in-big-data-e2e254e3e0ab) was the first answer to my question.
 <br>
