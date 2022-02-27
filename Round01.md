@@ -163,3 +163,55 @@
 > I think it'll be an initial step to learn blockchain & NFTs. Then, suddenly a question came up: "*what is the relationship between data science and blockchain?*"<br>
 > An [article written by Salih SARIKAYA](https://towardsdatascience.com/how-blockchain-will-disrupt-data-science-5-blockchain-use-cases-in-big-data-e2e254e3e0ab) was the first answer to my question.
 <br>
+
+## Day 32
+**Wed, 16 Feb 2022**<br>
+> watched a [youtube video from Towards Data Science](https://www.youtube.com/watch?v=La4mfgFBcKo).
+> * The video was a short & clear explanation about linear relationships. NOTES: It's important to check the (linear) relationship between variables before further analysis. The easiest one is looking at it visually.
+<br>
+
+## Day 33
+**Thu, 17 Feb 2022**<br>
+> Learned: [Mini-batch & exponentially weighted-averages](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning#syllabus) from Coursera.
+<br>
+
+## Day 34
+**Fri, 18 Feb 2022**<br>
+> **\[DONE\]** ~84% in total ➡️ up to chp 5 of [Machine Learning With Python for Beginner](https://academy.dqlab.id/main/package/practice/169) on dqlab.
+<br>
+
+## Day 35
+**Sat, 19 Feb 2022**<br>
+**\[DONE 100%\]**
+> * [dqlab](https://academy.dqlab.id/main/package/practice/169): Machine Learning With Python for Beginner
+> * [Coursera](https://www.coursera.org/learn/azure-machine-learning-studio-pipeline/ungradedLti/vMzyM/machine-learning-pipelines-with-azure-ml-studio): Machine Learning Pipelines with Azure ML Studio
+<br>
+
+## Day 36
+**Sun, 20 Feb 2022**<br>
+> **\[88%\]** Learned code on dqlab: [Fundamental Data Visualization with Python](https://academy.dqlab.id/main/package/practice/177?pf=0)
+<br>
+
+## Day 37
+**Mon, 21 Feb 2022**<br>
+**\[DONE 100%\]** worked on some codes on dqlab:
+> * [Fundamental Data Visualization with Python](https://academy.dqlab.id/main/package/practice/177?pf=0) module.
+> * Chapter 1 - Intro to Pandas; [Data Manipulation with Pandas - Part 1](https://academy.dqlab.id/main/package/practice/178?pf=0) module.
+<br>
+
+## Day 38
+**Tue, 22 Feb 2022**<br>
+**\[DONE 100%\]**
+> Made notes based on week 2 lecture slides of the [Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning#syllabus) course on Coursera: gradient descent w/ momentum, RMSprop, Adam optimization algo, learning rate decay methods.
+<br>
+
+## Day 39
+**Thu, 24 Feb 2022**<br>
+> **\[DONE 100%\]** Chapter 2 - Dataset I/O; [Data Manipulation with Pandas - Part 1](https://academy.dqlab.id/main/package/practice/178?pf=0) module:<br>
+> How to read & to save dataset from & to different file types using Pandas.
+<br>
+
+## Day 40
+**2022**<br>
+> ()
+<br>
