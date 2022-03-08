@@ -7,4 +7,4 @@ This repo contains summary of what I've learned/ worked on/ read during the chal
 
 
 ### Additional Notes
-* Notes on DQLAB (https://github.com/nitrataripin/PROJECTS/blob/main/DQLAB_SUMMARY/READ%20ME.md)
+* Notes on DQLAB(https://github.com/nitrataripin/PROJECTS/blob/main/DQLAB_SUMMARY/READ%20ME.md)
