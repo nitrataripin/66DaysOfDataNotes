@@ -213,6 +213,40 @@
 <br>
 
 ## Day 40
-**2022**<br>
-> ()
+**Sat, 26 Feb 2022**<br>
+> * **\[DONE 100%\]** Chapter 3 - [Data Manipulation with Pandas - Part 1](https://academy.dqlab.id/main/package/practice/178?pf=0) module
 <br>
+
+## Day 41
+**Sun, 27 Feb 2022**<br>
+> Reviewed several materials from chp. 1 of [this book](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/):
+> * the motivation of why data types matter
+> * mean as a measurement to estimate data location (?)
+<br>
+
+## Day 42
+**Mon, 28 Feb 2022**<br>
+> Reviewed several materials from chp. 1 of [this book](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/):
+> * median as robust estimate of (data) location
+> * estimating data dispersion part 1: mean absolute deviation, variance, standard deviation
+<br>
+
+## Day 43
+**Tue, 08 Mar 2022**<br>
+> Wrote summaries of 2 python modules from dqlab.
+> * [Introduction to Data Science with Python
+DQLAB Summary](https://nitrataripin.medium.com/introduction-to-data-science-with-python-4cfd6e13bea0)
+> * [Python Fundamental for Data Science](https://nitrataripin.medium.com/python-fundamental-for-data-science-4ee83450f309)
+<br>
+
+## Day 44
+**Wed, 09 Mar 2022**<br>
+> Learned (a new thing) from an article titled [Building Your Data Field Guide](https://towardsdatascience.com/building-your-data-field-guide-e2bdae49a9da):
+> * how a data field guide would be helpful to enhance intuition in analyzing the data.
+> * *Data Field Guide = Data Dictionary + Column Clusters + Data Origin Story*
+<br>
+
+## Day 45
+**Thu, 10 Mar 2022**<br>
+> * Finished 2 subchapters in Module: [Data Manipulation with Pandas - Part 1 about handling missing values](https://academy.dqlab.id/main/package/practice/178).
+> * Further reading [Working with missing data](https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html)
